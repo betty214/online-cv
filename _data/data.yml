@@ -22,14 +22,17 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Japanese
         level: Professional
+
+      - idiom: Deutsch
+        level: Beginner
 
     interests:
       - item: Climbing
